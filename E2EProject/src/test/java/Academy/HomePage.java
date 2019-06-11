@@ -66,16 +66,15 @@ public class HomePage extends base{
 		// 0,1
 		Object[][] data=new Object[2][3];
 		//0th row
-		data[0][0]="nonrestricteduser@qw.com";
+		data[0][0]="nonrduser@qw.com";
 		data[0][1]="123456";
 		data[0][2]="Restrcited User";
 		//1st row
-		data[1][0]="restricteduser@qw.com";
+		data[1][0]="reduser@qw.com";
 		data[1][1]="456788";
 		data[1][2]= "Non restricted user";
 		
 		return data;
-		
 		
 		
 		
